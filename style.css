@@ -1,0 +1,33 @@
+.containerr{
+  background-color: gray;
+  font-size: 20px;
+  color: black;
+  margin: 50px;
+
+}
+#header-nav {
+  background-color: #f6b319;
+  margin: 0px;
+  padding: 0px;
+  height: 250px;
+}
+.fo{
+  text-align: left;
+  font-size: 35px;
+  padding-top:50px;
+  padding-left: 30px;
+}
+
+@media (min-width: 768px) {
+  .navbar-toggler {
+    display: none;
+  }
+}
+.Chicken{
+  font-weight: bold;
+  text-align: center;
+}
+.nav-item{
+  text-align: center;
+  border: 2px solid ;
+}
